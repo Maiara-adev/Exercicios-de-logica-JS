@@ -1,2 +1,2 @@
 # Exercicios-de-logica-JS
-Exercícios de lógica com JavaScript
+Exercícios de lógica Faccat  com JavaScript 
